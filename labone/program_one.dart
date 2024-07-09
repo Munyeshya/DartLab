@@ -18,7 +18,7 @@ void main() {
   print("Enter the first number:");
   int? num1 = int.parse(stdin.readLineSync()!); //declaring number1
   print("Enter the second number:");
-  int? num2 = int.parse(stdin.readLineSync()!);
+  int? num2 = int.parse(stdin.readLineSync()!); //declaring number2
 
   int sum = num1 + num2;
   int diff = num1 - num2;
