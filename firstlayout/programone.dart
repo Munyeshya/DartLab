@@ -50,6 +50,7 @@ class TextDisplay extends StatelessWidget {
                           child: ListTile(
                             title: Text('Card 1'),
                             subtitle: Text('Description of Card 1'),
+                            
                           ),
                         ),
                         Card(
